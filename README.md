@@ -1,3 +1,3 @@
 # rock-paper-scissor
 
-#MLH-Day2
+# MLH-Day2
